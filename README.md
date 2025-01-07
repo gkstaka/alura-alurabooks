@@ -20,6 +20,7 @@ Click [here](https://gkstaka.github.io/alura-alurabooks/) to access website.
 - SwiperJS: librar for implementing the carousel.
 
 ## Project Structure
+
 root/
 ├─ styles/      # CSS files
 ├─ index.html   # Main HTML file
