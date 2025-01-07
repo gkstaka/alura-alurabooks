@@ -29,13 +29,16 @@
     margin: 1.5em;
     padding: 1.5em 1em;
     box-shadow: 0 6px 4px rgba(0, 0, 0, 0.25);
+    
 }
 
 .card__descricao {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 0.5em 0;
+    margin-bottom: 0.5em;
     gap:1em;
+    box-sizing: border-box;
+    
 }
 
 .descricao__estrelinhas {
