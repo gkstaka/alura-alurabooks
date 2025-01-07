@@ -20,7 +20,7 @@
 .swiper-pagination {
     position: initial;
     margin: .75em 0;
-    z-index: 1;
+    /* z-index: 1; */
 }
 
 .card {
