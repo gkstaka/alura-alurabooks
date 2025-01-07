@@ -5,10 +5,10 @@ AluraBooks is a single page responsive website showcasing an online bookstore. T
 Click [here](https://gkstaka.github.io/alura-alurabooks/) to access website.
 
 ## Table of Contents
-[Features](#features)
-[Tecnologies Used](#technologies-used)
-[Project Structure](#project-structure)
-[TCredits](#credits)
+- [Features](#features)
+- [Tecnologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [TCredits](#credits)
 
 ## Features
 - Responsive Design.
