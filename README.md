@@ -1,3 +1,3 @@
 # AluraBooks
 
-![Site final]([gkstaka.github.io/alura-alurabooks](https://gkstaka.github.io/alura-alurabooks/))
+Click [here]!(https://gkstaka.github.io/alura-alurabooks/) to access website.
